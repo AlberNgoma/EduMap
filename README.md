@@ -1,1 +1,1 @@
-"The project EduMap" 
+The project EduMap
