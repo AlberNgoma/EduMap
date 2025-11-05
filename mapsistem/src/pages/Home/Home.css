@@ -1,0 +1,50 @@
+.inicio{
+  width: 100%;
+  min-height: 530px;
+  background-image: linear-gradient(rgba(163, 219, 234, 0.415), rgba(255, 255, 255, 0.295)),url("../../assets/bannner3.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat; 
+  display: flex;
+  align-items: center;
+
+}
+
+
+
+.conteudo h1{
+  color: rgb(0, 0, 0);
+  font-size: 53px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 500;
+}
+
+
+.conteudo span{
+  color: blue;
+  font-family:cursive;
+  font-weight: 600;
+}
+
+
+
+.conteudo h6{
+  color: rgb(33, 32, 32);
+  font-size: 20px;
+
+}
+
+
+  .btnEnviar{
+  width: 150px;
+  border-radius: 25px !important;
+  padding: 8px !important;
+  background-color: rgb(9, 191, 236) !important;
+  border: none !important;
+  font-size: 18px !important;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+}
+
+  .btnEnviar:hover{
+     background-color: rgb(15, 112, 134) !important;
+  }
